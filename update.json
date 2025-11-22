@@ -2,6 +2,5 @@
   "version": 3,
   "package_url": "https://drive.google.com/uc?export=download&id=ZIP_ID",
   "sha256": "B6C1E8113E3A3D58C4C3F93C6E5D3C55EAB0D5EAF70C1234F9A85B7A12345678",
-  "changelog": "Yeni metin fix, performans arttı.",
   "force_update": true
 }
